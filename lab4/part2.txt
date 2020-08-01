@@ -1,0 +1,4 @@
+= is used to assign values, while == is used to compare two values to check for equality.
+
+an assignment of x=0 will always return false. In general, assignments return true/false based on whether the assigned value is non-zero
+asssigning any nonzero number to x will always return true.

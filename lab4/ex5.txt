@@ -1,0 +1,4 @@
+a: False
+b: Nope. Parenthesis only help organize the expression in this case.
+c: !(1 && (30 % 10 >= 0) && (30 % 10 <=3))
+d: 1 || (30 % 10 < 0) || (30 % 10 >3)

@@ -1,0 +1,9 @@
+1: 
+    3+5+8 / 3 will yield an incorrect result, because all of the values are given as ints, and that means the output will also be an int. 
+    Swap the 3 for 3.0, etc so that the output is a double
+
+2:
+    / is the division operator. We all know what that means
+    % is the remainder operator, which gives the "leftovers" from a division operation.
+    When the two values are divisible, the remainder is 0, but when the values aren't, such as 1/3, the remainder gives the parts left over.
+    Roughly, the remainder is how far off the dividend is from being fully divisible by the divisor.

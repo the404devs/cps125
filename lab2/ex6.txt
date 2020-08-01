@@ -1,0 +1,29 @@
+Ex. 3
+line 3: 'int' declaration misspelled as 'inx'
+line 6: semicolon in place of a comma
+line 7: 'Double' should not be capitalized
+line 9: d was initialized as a double, while a and b are ints
+line 10: division by 0
+line 11: missing quotes, missing semicolon
+
+
+Ex. 6
+1: char is a type, Char is a class
+2: 0, formats as an int
+3: yes, but it won't give the result you expect.
+4: nope. c is very strict about semicolons
+5: f: float, lf: double(long float)
+6: divison by zero will cause a runtime error. compiler might warn you beforehand, if 0 is explicit
+7: no, % operator requires int types
+8: explicitly specifiying the void param means that the function can only be called with 0 args. not including it means that the func can we called with any number of args
+9: the corresponding ascii char will be displayed
+10: / and % are completely different operators, so they will not show the same result. 5.0/3 will format the output as a double, whereas 5/3 will format it as an int
+
+
+Part 2:
+I:
+    printf writes to stdout, while scanf reads from stdin. One is input, the other is output.
+
+II:
+    Integers are whole numbers (1, 2, 3, etc). Doubles are real numbers, and are able to have decimal values.
+
